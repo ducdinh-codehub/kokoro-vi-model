@@ -1,1 +1,2 @@
-
+Kokoro tab (V1) — Vietnamese & English text-to-speech (Vietnamese via onnxruntime-react-native, English via react-native-executorch)
+Kokoro Lite tab (V2) — same screen, but Vietnamese runs an 8-bit quantized model: ~92 MB instead of 326 MB, ~2× faster (see Kokoro V1 vs V2)
